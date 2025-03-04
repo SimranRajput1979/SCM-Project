@@ -2,3 +2,4 @@
 task 1.1
 Switch
 SCM practical file 1
+.
